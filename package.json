@@ -1,0 +1,22 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "Meme Generator",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanhariharan2/acm-hack-school.git"
+  },
+  "author": "Shravan Hariharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanhariharan2/acm-hack-school/issues"
+  },
+  "homepage": "https://github.com/shravanhariharan2/acm-hack-school#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
