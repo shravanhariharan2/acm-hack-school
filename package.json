@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shravanhariharan2/acm-hack-school#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
